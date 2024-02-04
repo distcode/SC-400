@@ -1,4 +1,3 @@
-# SC-400 Additional Information
+# SC-400 Additions
 
-Companion files and information for the course SC-400 taught by DI Thomas Schleich.
-
+Additional files and information for the course SC-400 taught by DI Thomas Schleich.
