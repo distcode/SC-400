@@ -16,7 +16,7 @@ But it is also possible to make a file unchangeable if you use the following set
 
 ![image](./.images/RecMgmtPic2.png)
 
-This third setting must be enabled via PowerShell:
+This third setting must be enabled via PowerShell first:
 
 ```PowerShell
 Connect-IPPSSesion
@@ -25,4 +25,4 @@ Set-RegulatoryComplianceUI -Enabled $true
 
 The impact is shown in this [link](https://learn.microsoft.com/en-us/purview/records-management#compare-restrictions-for-what-actions-are-allowed-or-blocked)
 
-> :exclamation:Warning: It is important to know the implications of record labels, otherwise you may not be able to change or delete data.
+> :warning:Warning: It is important to know the implications of record labels, otherwise you may not be able to change or delete data.

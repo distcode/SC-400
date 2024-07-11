@@ -9,3 +9,5 @@ Guided demonstration will show you in a special form how to configure some setti
 | 2 | DLP policies for Microsoft Teams | <https://mslearn.cloudguides.com/en-us/guides/Apply%20Microsoft%20Endpoint%20DLP%20policies%20to%20devices> | Multiple guides |
 | 2 | Endpoint DLP 1 | <https://mslearn.cloudguides.com/guides/Apply%20Microsoft%20Purview%20Endpoint%20DLP%20policies%20to%20devices> | |
 | 2 | Endpoint DLP 2 |  <https://mslearn.cloudguides.com/guides/Experience%20an%20active%20Microsoft%20Purview%20Endpoint%20DLP%20policy> | |
+| 5 | Communication Compliance | <https://mslearn.cloudguides.com/guides/Get%20started%20with%20Microsoft%20Purview%20Communication%20Compliance> | |
+| 5 | Insider Risk Management | <https://mslearn.cloudguides.com/en-us/guides/Identify%20and%20take%20action%20on%20insider%20risks%20with%20Insider%20Risk%20Management> | Multiple guides |
