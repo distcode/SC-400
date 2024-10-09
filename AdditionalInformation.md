@@ -2,6 +2,20 @@
 
 Here you will find some information, which should help you understand or configure IP in M365.
 
+## Sensitive information types
+
+### SITs - Keyword List vs. Keyword dictionary
+
+Limit | Value
+------|------
+Maximum number of custom SITs created through the Microsoft Purview compliance portal | 500
+Maximum length of regular expression | 1024 characters
+Maximum length for a given term in a keyword list | 50 characters
+Maximum number of terms in keyword list | 2048
+Maximum number of distinct regexes per SIT | 20
+Maximum size of a keyword dictionary (post compression) | 1MB (~1,000,000 characters)
+Maximum number of keyword dictionary based SITs in a tenant | 50
+
 ## Records Management
 
 Records management allows you to declare labeled information as record. In opposite to a labeled information by Data lifecycle Management, a record cannot be changed ( ... and some more).
