@@ -16,6 +16,17 @@ Maximum number of distinct regexes per SIT | 20
 Maximum size of a keyword dictionary (post compression) | 1MB (~1,000,000 characters)
 Maximum number of keyword dictionary based SITs in a tenant | 50
 
+### Limitation of Fingerprinting
+
+[link](https://learn.microsoft.com/en-gb/purview/sit-document-fingerprinting#limitations-of-document-fingerprinting)
+
+Document fingerprinting doesn't detect sensitive information in the following cases:
+
++ Password protected files
++ Files that contain images only
++ Documents that don't contain all the text from the original form used to create the document fingerprint
++ Files larger than 4 MB
+
 ## Records Management
 
 Records management allows you to declare labeled information as record. In opposite to a labeled information by Data lifecycle Management, a record cannot be changed ( ... and some more).
