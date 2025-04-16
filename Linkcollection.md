@@ -18,7 +18,7 @@ GoDeploy LMS [link](https://lms.godeploy.it)
 
 ## Roles and Role groups in Purview Portal
 
-[link](https://learn.microsoft.com/en-us/defender-office-365/scc-permissions?toc=%2Fpurview%2Ftoc.json&bc=%2Fpurview%2Fbreadcrumb%2Ftoc.json)
+[Microsoft Documentation](https://learn.microsoft.com/en-us/defender-office-365/scc-permissions?toc=%2Fpurview%2Ftoc.json&bc=%2Fpurview%2Fbreadcrumb%2Ftoc.json)
 
 > :exclamation: Note: To view the Permissions tab as described in this article, you need to be an admin. Specifically, you need to be assigned the Role Management role, and that role is assigned only to the Organization Management and Purview Administrators role groups by default. The Role Management role also allows you to view, create, and modify role groups.
 
@@ -38,4 +38,4 @@ To set Windows Defender in passive mode on your Windows 11 device, follow these 
 
 + Verify the Status: After restarting, check the status of Windows Defender in the Windows Security app to confirm it is in passive mode.
 
-[link](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-antivirus-compatibility#requirements-for-microsoft-defender-antivirus-to-run-in-passive-mode)
+[Microsoft Documentation](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-antivirus-compatibility#requirements-for-microsoft-defender-antivirus-to-run-in-passive-mode)
