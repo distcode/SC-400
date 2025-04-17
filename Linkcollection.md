@@ -39,3 +39,7 @@ To set Windows Defender in passive mode on your Windows 11 device, follow these 
 + Verify the Status: After restarting, check the status of Windows Defender in the Windows Security app to confirm it is in passive mode.
 
 [Microsoft Documentation](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-antivirus-compatibility#requirements-for-microsoft-defender-antivirus-to-run-in-passive-mode)
+
+## eDiscovery Comparison
+
+Table of features and differences standard vs. premium [link](https://learn.microsoft.com/en-us/purview/ediscovery)
